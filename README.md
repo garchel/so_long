@@ -1,7 +1,8 @@
-## So Long
-# Description
+# So Long
+## Description
 So Long is a simple 2D game project developed as part of the 42 school curriculum. The goal is to create a basic game where a character (by default, a dolphin) escapes Earth after eating some fish.
-Features
+
+##Features
 
 Uses the MiniLibX graphics library
 2D map with top-down or profile view
@@ -10,13 +11,13 @@ Item collection and exit finding
 Map parsing from .ber files
 Movement counter
 
-Requirements
+## Requirements
 
 MiniLibX
 C Compiler (gcc recommended)
 Make
 
-Installation
+## Installation
 
 Clone the repository:
 ```
@@ -37,13 +38,13 @@ make
 
 
 
-Usage
+## Usage
 Run the program by passing a valid map as an argument:
 ```
 ./so_long maps/map.ber
 ```
 
-Controls
+## Controls
 
 W/↑: Move up
 A/←: Move left
@@ -51,7 +52,7 @@ S/↓: Move down
 D/→: Move right
 ESC: Exit the game
 
-Map Format
+## Map Format
 Maps should be .ber files containing:
 
 1: Wall
