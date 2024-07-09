@@ -2,7 +2,7 @@
 ## Description
 So Long is a simple 2D game project developed as part of the 42 school curriculum. The goal is to create a basic game where a character (by default, a dolphin) escapes Earth after eating some fish.
 
-##Features
+## Features
 
 Uses the MiniLibX graphics library
 2D map with top-down or profile view
